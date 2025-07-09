@@ -22,5 +22,4 @@ public class Latihan3 {
         }
         System.out.println("\nJumlah semua elemen: " + totalSum);
     }
-
 }
